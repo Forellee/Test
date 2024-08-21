@@ -4,6 +4,7 @@ wins = 0
 losses = 0
 ties = 0
 
+# Главный цикл
 while True:
     print('%s побед, %s поражений, %s ничьих' % (wins, losses, ties))
 
